@@ -1,0 +1,22 @@
+{
+  "name": "PallasAthena",
+  "displayName": "Pallas Athena",
+  "description": "Athena theme",
+  "version": "0.0.1",
+  "publisher": "ismielabir",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Athena",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Athena-color-theme.json"
+      }
+    ]
+  }
+}
